@@ -31,10 +31,10 @@ export default function Home() {
   };
 
   const serviceImages = [
-    "https://images.unsplash.com/photo-1588854337221-d71b0166ec79",
-    "https://images.unsplash.com/photo-1600369672446-4d3f78b28de1",
-    "https://images.unsplash.com/photo-1597097092972-5cba6f823d83",
-    "https://images.unsplash.com/photo-1599422314077-f4dfdaa4cd48",
+     "/gallery1.jpg",
+    "/gallery2.jpg",
+    "/gallery3.jpg",
+    "/gallery4.jpg"
   ];
 
   return (
