@@ -1,17 +1,12 @@
-# Agustin Construction - Demo Website
+# Agustin Construction - Demo Site (Classic Pages)
 
-This is a bilingual demo site built with Next.js for a construction company operating in NY/NJ/PA.
+This is a bilingual demo site using classic Next.js pages/ structure.
 
-## Features
-- Bilingual (EN/ES) switch
-- Service gallery
-- Contact info for Agustin Jacinto
-
-## Quick start
+## Steps to deploy
 
 ```bash
 npm install
 npm run dev
 ```
 
-Deploy this on [https://vercel.com](https://vercel.com) in one click.
+Or upload to https://vercel.com with auto-detection.
